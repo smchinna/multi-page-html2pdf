@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/smchinna/multi-page-html2pdf/issues"
   },
-  "homepage": "https://github.com/smchinna/multi-page-html2pdf#readme",
+  "homepage": "https://github.com/smchinna/multi-page-html2pdf/blob/master/README.md",
   "dependencies": {
     "html2canvas": "^1.0.0-rc.5",
     "jspdf": "^1.5.3"
